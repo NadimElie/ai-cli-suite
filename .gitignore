@@ -1,0 +1,13 @@
+# Security: Block environment variables and credentials
+.env
+.config
+*.key
+*.pem
+secrets.sh
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
